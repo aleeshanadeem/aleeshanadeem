@@ -4,9 +4,9 @@
 ---
 
 About Me
-🎓 BSCS Student at Government College University Faisalabad (GCUF)
-📊 Passionate about Data Science
-🤖 Learning Machine Learning & AI
+- 🎓 BSCS Student at Government College University Faisalabad (GCUF)
+- 📊 Passionate about Data Science
+- 🤖 Learning Machine Learning & AI
 
 ---
 
