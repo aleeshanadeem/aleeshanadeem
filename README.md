@@ -3,11 +3,10 @@
 
 ---
 
-## 🚀 About Me
-
-- 🎓 BSCS Student
-- 📊 Passionate about Data Science
-- 🤖 Learning Machine Learning & AI
+About Me
+🎓 BSCS Student at Government College University Faisalabad (GCUF)
+📊 Passionate about Data Science
+🤖 Learning Machine Learning & AI
 
 ---
 
