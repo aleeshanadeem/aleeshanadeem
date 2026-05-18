@@ -7,7 +7,7 @@
 - 🎓 BSCS Student
 - 📊 Passionate about Data Science
 - 🤖 Learning Machine Learning & AI
-- 💡 Goal: Build AI-powered Startup
+
 
 ---
 
@@ -39,5 +39,5 @@
 
 ## 📫 Connect With Me
 
-- LinkedIn: (https://www.linkedin.com/in/aleesha-nadeem/)
-- Kaggle: (https://www.kaggle.com/nalisha)
+- LinkedIn: ((Link)https://www.linkedin.com/in/aleesha-nadeem/)
+- Kaggle: ((Link)https://www.kaggle.com/nalisha)
