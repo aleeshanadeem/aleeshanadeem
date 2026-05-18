@@ -39,5 +39,5 @@
 
 ## 📫 Connect With Me
 
-- LinkedIn: ([add link](https://www.kaggle.com/nalisha))
-- Kaggle: ([add link](https://www.linkedin.com/in/aleesha-nadeem/))
+-  ([LinkedIn](https://www.kaggle.com/nalisha))
+- ([Kaggle](https://www.linkedin.com/in/aleesha-nadeem/))
