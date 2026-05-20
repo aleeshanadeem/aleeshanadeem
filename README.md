@@ -15,9 +15,10 @@
 
 ### Programming
 - Python
-- SQL
+- R
 
 ### Data Analysis
+- SQL
 - Pandas
 - NumPy
 - Matplotlib
