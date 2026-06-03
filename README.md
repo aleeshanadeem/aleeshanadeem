@@ -2,7 +2,7 @@
 
 ---
 
-## 🚀 About Me
+##  About Me
 
 - 🎓 BS Computer Science Student
 - 📊 Passionate about Data Science
