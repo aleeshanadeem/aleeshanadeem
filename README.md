@@ -11,7 +11,7 @@
 
 ---
 
-## 🛠 Skills
+##  Skills
 
 ### Programming
 - Python
