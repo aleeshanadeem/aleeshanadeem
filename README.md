@@ -30,7 +30,7 @@
 
 ---
 
-## 📌 Featured Projects
+##  Featured Projects
 
 - 🏠 House Price Prediction (XGBoost)
 - 📊 University Ranking Data Analysis
