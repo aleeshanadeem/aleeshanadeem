@@ -1,9 +1,30 @@
 <div align="center">
 
-# 👋 Hi, I'm Aleesha
+<h1 align="center">
 
-### AI & Data Science Enthusiast • BS Computer Science Student • Future AI Founder 🚀
+Hi 👋 I'm Aleesha
 
+</h1>
+
+<h3 align="center">
+
+Building AI that Solves Real Problems.
+
+</h3>
+
+<p align="center">
+
+🎓 BS Computer Science
+
+🤖 Machine Learning
+
+📊 Data Science
+
+🚀 Future Founder of 2ANK
+
+♟ Chess Player
+
+</p>
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Machine+Learning+Engineer;Data+Science+Enthusiast;Open+Source+Contributor;Building+the+Future+with+AI;Future+Founder+of+2ANK" />
 
 </div>
