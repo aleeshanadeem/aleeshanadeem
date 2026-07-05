@@ -17,8 +17,7 @@ style="border-radius:50%;border:5px solid #58a6ff;" />
 Hi 👋
 </h1>
 
-<img src="![Uploading Gemini_Generated_Image_z4vneoz4vneoz4vn.png…]()
-" />
+<img src="![Uploading Gemini_Generated_Image_z4vneoz4vneoz4vn.png…]()" />
 
 <br><br>
 
