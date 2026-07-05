@@ -1,36 +1,4 @@
-<div align="center">
 
-<table>
-<tr>
-
-<td width="220" align="center">
-
-<img src="YOUR_IMAGE_URL"
-width="180"
-style="border-radius:50%;border:5px solid #58a6ff;" />
-
-</td>
-
-<td>
-
-<h1>
-Hi 👋
-</h1>
-
-<img src="![Uploading Gemini_Generated_Image_z4vneoz4vneoz4vn.png…]()" />
-
-<br><br>
-
-<p>
-💙 Passionate about AI, Machine Learning & Data Science.
-</p>
-
-</td>
-
-</tr>
-</table>
-
-</div>
 
 <h1 align="center">Hi 👋, I'm Aleesha</h1>
 <h3 align="center">Data Analyst| Data Science Learner | AI & Machine Learning Enthusiast | BS Computer Science Student | Building AI Products</h3>
