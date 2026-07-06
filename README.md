@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Python, Data Science, Machine Learning, EDA, SQL, Kaggle**
 
-- 📫 How to reach me **alishanadeem748@gmail.com**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
