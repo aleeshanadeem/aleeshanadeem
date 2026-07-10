@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Aleesha</h1>
-<h3 align="center">Data Analyst| Data Science Learner | AI & Machine Learning Enthusiast | BS Computer Science Student | Building AI Products</h3>
+<h3 align="center"> Data Science  | AI & Machine Learning Enthusiast | BS Computer Science Student</h3>
 
 - 🌱 I’m currently learning **Deep Learning, TensorFlow, PyTorch, LLMs, RAG, AI Agents, and MLOps**
 
