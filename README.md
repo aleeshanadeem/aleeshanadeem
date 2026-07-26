@@ -50,7 +50,6 @@ Passionate about transforming data into intelligent solutions through Machine Le
 
 <p>
 
-<img src="https://skillicons.dev/icons?i=tensorflow"/>
 
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
 
@@ -61,7 +60,6 @@ Passionate about transforming data into intelligent solutions through Machine Le
 <img src="https://img.shields.io/badge/Seaborn-009688?style=for-the-badge"/>
 
 <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly"/>
-<img src="https://skillicons.dev/icons?i=sklearn"/>
 
 <img src="https://img.shields.io/badge/XGBoost-FF6600?style=for-the-badge"/>
 
@@ -76,7 +74,6 @@ Passionate about transforming data into intelligent solutions through Machine Le
 
 <img src="https://skillicons.dev/icons?i=tensorflow"/>
 
-<img src="https://skillicons.dev/icons?i=pytorch"/>
 
 <img src="https://skillicons.dev/icons?i=sklearn"/>
 
