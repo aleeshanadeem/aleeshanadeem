@@ -17,13 +17,15 @@ Passionate about transforming data into intelligent solutions through Machine Le
 - 🤖 Machine Learning & AI Enthusiast
 - 🌱 Currently learning
 
-  - Deep Learning
-  - TensorFlow
-  - PyTorch
-  - Large Language Models (LLMs)
-  - Retrieval-Augmented Generation (RAG)
-  - AI Agents
-  - MLOps
+ - 🌱 I’m currently learning
+
+  - [Deep Learning](https://en.wikipedia.org/wiki/Deep_learning)
+  - [TensorFlow](https://www.tensorflow.org/)
+  - [PyTorch](https://pytorch.org/)
+  - [Large Language Models (LLMs)](https://en.wikipedia.org/wiki/Large_language_model)
+  - [Retrieval-Augmented Generation (RAG)](https://en.wikipedia.org/wiki/Retrieval-augmented_generation)
+  - [AI Agents](https://en.wikipedia.org/wiki/Intelligent_agent)
+  - [MLOps](https://ml-ops.org/)
 
 - 💡 Interested in
 
