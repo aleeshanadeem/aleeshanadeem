@@ -111,8 +111,7 @@ Passionate about transforming data into intelligent solutions through Machine Le
 <img src="https://skillicons.dev/icons?i=bash" />
 
 <!-- Databases -->
-<img src="https://skillicons.dev/icons?i=mysql" />
-<img src="https://skillicons.dev/icons?i=sqlite" />
+<img src="https://skillicons.dev/icons?i=mysql"/>
 
 <!-- Google Colab -->
 <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white"/>
