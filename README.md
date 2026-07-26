@@ -33,20 +33,8 @@ Passionate about transforming data into intelligent solutions through Machine Le
   - Machine Learning Projects
   - Data Science Research
 
-- 💬 Ask me about
 
-  - Python
-  - Machine Learning
-  - Data Analysis
-  - SQL
-  - Pandas
-  - NumPy
-  - EDA
-  - Kaggle
-
----
-
-## 📊 Data Science
+##  Data Science
 
 <p>
 
@@ -68,16 +56,13 @@ Passionate about transforming data into intelligent solutions through Machine Le
 </p>
 
 
-## 🤖 AI & Machine Learning
+##  AI & Machine Learning
 
 <p>
 
 <img src="https://skillicons.dev/icons?i=tensorflow"/>
 
-
 <img src="https://skillicons.dev/icons?i=sklearn"/>
-
-
 
 <img src="https://img.shields.io/badge/LLMs-FF6F00?style=for-the-badge"/>
 
@@ -91,16 +76,15 @@ Passionate about transforming data into intelligent solutions through Machine Le
 
 
 
-## 🛠️ Tools & Platforms
+##  Tools & Platforms
 
 <p align="left">
 
-<!-- Development -->
 <img src="https://skillicons.dev/icons?i=git" />
 <img src="https://skillicons.dev/icons?i=github" />
 <img src="https://skillicons.dev/icons?i=vscode" />
 <img src="https://skillicons.dev/icons?i=pycharm" />
-<img src="https://skillicons.dev/icons?i=jupyter" />
+<img src="https://skillicons.dev/icons?i=jupyter"/>
 <img src="https://skillicons.dev/icons?i=mysql"/>
 <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white"/>
 <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
@@ -156,53 +140,10 @@ Passionate about transforming data into intelligent solutions through Machine Le
 
 </p>
 
----
-
 
 ---
 
 
----
-
-### Tools
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=vscode"/>
-
-<img src="https://skillicons.dev/icons?i=git"/>
-
-<img src="https://skillicons.dev/icons?i=github"/>
-
-<img src="https://skillicons.dev/icons?i=anaconda"/>
-
-<img src="https://skillicons.dev/icons?i=docker"/>
-
-</p>
-
----
-
-# 📚 Currently Learning
-
-✅ Deep Learning
-
-✅ TensorFlow
-
-✅ PyTorch
-
-✅ Generative AI
-
-✅ Large Language Models
-
-✅ LangChain
-
-✅ RAG
-
-✅ AI Agents
-
-✅ MLOps
-
----
 
 # 📂 Featured Projects
 
