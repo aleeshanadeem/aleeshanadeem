@@ -75,9 +75,9 @@ Passionate about transforming data into intelligent solutions through Machine Le
 </p>
 
 
-
+-----
 ##  Tools & Platforms
-
+-----
 <p align="left">
 
 <img src="https://skillicons.dev/icons?i=git" />
@@ -110,9 +110,11 @@ Passionate about transforming data into intelligent solutions through Machine Le
 </p>
 
 
----
+-------
 
 ##  Currently Learning
+
+------
 
 <p>
 
@@ -133,21 +135,7 @@ Passionate about transforming data into intelligent solutions through Machine Le
 </p>
 
 
-# 📂 Featured Projects
-
-⭐ AI Developer Performance Analysis
-
-⭐ Student Performance Prediction
-
-⭐ Employee Salary Prediction
-
-⭐ House Price Prediction
-
-⭐ California Housing Price Prediction
-
-⭐ Bank Management System
-
----
+----
 
 
 # 🔥 GitHub Streak
