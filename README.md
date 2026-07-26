@@ -17,16 +17,27 @@ Passionate about transforming data into intelligent solutions through Machine Le
 - 🤖 Machine Learning & AI Enthusiast
 - 🌱 Currently learning
 
- - 🌱 I’m currently learning
+## 📊 Data Science
 
-  - [Deep Learning](https://en.wikipedia.org/wiki/Deep_learning)
-  - [TensorFlow](https://www.tensorflow.org/)
-  - [PyTorch](https://pytorch.org/)
-  - [Large Language Models (LLMs)](https://en.wikipedia.org/wiki/Large_language_model)
-  - [Retrieval-Augmented Generation (RAG)](https://en.wikipedia.org/wiki/Retrieval-augmented_generation)
-  - [AI Agents](https://en.wikipedia.org/wiki/Intelligent_agent)
-  - [MLOps](https://ml-ops.org/)
+<p>
 
+<img src="https://skillicons.dev/icons?i=anaconda"/>
+
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy"/>
+
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Seaborn-009688?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly"/>
+
+<img src="https://img.shields.io/badge/XGBoost-FF6600?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/LightGBM-4CAF50?style=for-the-badge"/>
+
+</p>
 - 💡 Interested in
 
   - Data Science
