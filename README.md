@@ -143,6 +143,25 @@ Passionate about transforming data into intelligent solutions through Machine Le
 
 ---
 
+##  Currently Learning
+
+<p>
+
+<img src="https://img.shields.io/badge/Deep%20Learning-FF6F00?style=for-the-badge"/>
+
+<img src="https://skillicons.dev/icons?i=tensorflow"/>
+
+<img src="https://skillicons.dev/icons?i=pytorch"/>
+
+<img src="https://img.shields.io/badge/LLMs-4CAF50?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/RAG-2196F3?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/AI%20Agents-9C27B0?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/MLOps-E91E63?style=for-the-badge"/>
+
+</p>
 
 
 # 📂 Featured Projects
@@ -161,17 +180,6 @@ Passionate about transforming data into intelligent solutions through Machine Le
 
 ---
 
-# 📈 GitHub Stats
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=aleeshanadeem&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aleeshanadeem&layout=compact&theme=tokyonight"/>
-
-</p>
-
----
 
 # 🔥 GitHub Streak
 
