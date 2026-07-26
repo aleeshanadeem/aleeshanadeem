@@ -69,6 +69,31 @@ Passionate about transforming data into intelligent solutions through Machine Le
 
 </p>
 
+
+## 🤖 AI & Machine Learning
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=tensorflow"/>
+
+<img src="https://skillicons.dev/icons?i=pytorch"/>
+
+<img src="https://skillicons.dev/icons?i=sklearn"/>
+
+</p>
+
+<p>
+
+<img src="https://img.shields.io/badge/LLMs-FF6F00?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/RAG-4CAF50?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/AI%20Agents-6A1B9A?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/MLOps-0A66C2?style=for-the-badge"/>
+
+</p>
+
 # 🌐 Connect With Me
 
 <p align="left">
