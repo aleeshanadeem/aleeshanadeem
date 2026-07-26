@@ -174,18 +174,17 @@ Passionate about transforming data into intelligent solutions through Machine Le
 </p>
 
 
---
 
 ## 🌐 Connect With Me
 
 <p align="left">
 
 <a href="https://github.com/aleeshanadeem">
-<img src="https://skillicons.dev/icons?i=github" height="45"/>
+<img src="https://skillicons.dev/icons?i=github" height="45" />
 </a>
 
 <a href="https://linkedin.com/in/aleeshanadeem">
-<img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
+<img src="https://skillicons.dev/icons?i=linkedin" height="45" />
 </a>
 
 <a href="https://twitter.com/aleesha748">
@@ -205,7 +204,7 @@ Passionate about transforming data into intelligent solutions through Machine Le
 </a>
 
 </p>
----
+
 
 <p align="center">
 ⭐ Thanks for visiting my profile! ⭐
