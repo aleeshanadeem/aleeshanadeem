@@ -92,37 +92,6 @@ Passionate about transforming data into intelligent solutions through Machine Le
 <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
 <img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
 
-</p>
-
-# 🌐 Connect With Me
-
-<p align="left">
-
-<a href="https://linkedin.com/in/aleeshanadeem">
-<img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
-</a>
-
-<a href="https://github.com/aleeshanadeem">
-<img src="https://skillicons.dev/icons?i=github" height="45"/>
-</a>
-
-<a href="https://kaggle.com/nalisha">
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/kaggle.svg" width="42"/>
-</a>
-
-<a href="https://twitter.com/aleesha748">
-<img src="https://skillicons.dev/icons?i=twitter" height="45"/>
-</a>
-
-<a href="https://www.hackerrank.com/alishascientist2">
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/hackerrank.svg" width="42"/>
-</a>
-
-<a href="https://leetcode.com/dccfzpw2a5">
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/leetcode.svg" width="42"/>
-</a>
-
-</p>
 
 ---
 
@@ -216,6 +185,38 @@ Passionate about transforming data into intelligent solutions through Machine Le
 
 </p>
 
+
+--
+
+## 🌐 Connect With Me
+
+<p align="left">
+
+<a href="https://github.com/aleeshanadeem">
+<img src="https://skillicons.dev/icons?i=github" height="45"/>
+</a>
+
+<a href="https://linkedin.com/in/aleeshanadeem">
+<img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
+</a>
+
+<a href="https://twitter.com/aleesha748">
+<img src="https://skillicons.dev/icons?i=twitter" height="45"/>
+</a>
+
+<a href="https://www.hackerrank.com/alishascientist2">
+<img src="https://cdn.simpleicons.org/hackerrank/00EA64" height="45"/>
+</a>
+
+<a href="https://leetcode.com/dccfzpw2a5">
+<img src="https://cdn.simpleicons.org/leetcode/FFA116" height="45"/>
+</a>
+
+<a href="https://kaggle.com/nalisha">
+<img src="https://cdn.simpleicons.org/kaggle/20BEFF" height="45"/>
+</a>
+
+</p>
 ---
 
 <p align="center">
