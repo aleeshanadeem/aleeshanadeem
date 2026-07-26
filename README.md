@@ -91,6 +91,24 @@ Passionate about transforming data into intelligent solutions through Machine Le
 
 </p>
 
+
+
+## 🛠 Tools
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=git"/>
+
+<img src="https://skillicons.dev/icons?i=github"/>
+
+<img src="https://skillicons.dev/icons?i=vscode"/>
+
+<img src="https://skillicons.dev/icons?i=docker"/>
+
+<img src="https://skillicons.dev/icons?i=linux"/>
+
+</p>
+
 # 🌐 Connect With Me
 
 <p align="left">
