@@ -160,17 +160,6 @@ Passionate about transforming data into intelligent solutions through Machine Le
 
 ---
 
-### Python Libraries
-
-- Pandas
-- NumPy
-- Matplotlib
-- Seaborn
-- Plotly
-- Scikit-learn
-- SciPy
-- XGBoost
-- LightGBM
 
 ---
 
@@ -252,15 +241,6 @@ Passionate about transforming data into intelligent solutions through Machine Le
 
 ---
 
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=aleeshanadeem&theme=onedark&margin-w=15"/>
-
-</p>
-
----
 
 # 📊 Contribution Graph
 
@@ -272,18 +252,7 @@ Passionate about transforming data into intelligent solutions through Machine Le
 
 ---
 
-# 🎯 Goals for 2026
 
-- Build production-ready ML projects
-- Master Deep Learning
-- Learn MLOps
-- Build AI Agents
-- Contribute to Open Source
-- Publish quality Kaggle notebooks
-- Improve Competitive Programming
-- Become an AI Engineer
-
----
 
 # ✨ Quote
 
