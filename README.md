@@ -77,9 +77,7 @@ Passionate about transforming data into intelligent solutions through Machine Le
 
 <img src="https://skillicons.dev/icons?i=sklearn"/>
 
-</p>
 
-<p>
 
 <img src="https://img.shields.io/badge/LLMs-FF6F00?style=for-the-badge"/>
 
@@ -103,11 +101,7 @@ Passionate about transforming data into intelligent solutions through Machine Le
 <img src="https://skillicons.dev/icons?i=vscode" />
 <img src="https://skillicons.dev/icons?i=pycharm" />
 <img src="https://skillicons.dev/icons?i=jupyter" />
-<img src="https://skillicons.dev/icons?i=anaconda" />
-
 <!-- Cloud & Containers -->
-<img src="https://skillicons.dev/icons?i=docker" />
-<img src="https://skillicons.dev/icons?i=linux" />
 <img src="https://skillicons.dev/icons?i=bash" />
 
 <!-- Databases -->
