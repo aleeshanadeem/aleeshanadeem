@@ -17,28 +17,7 @@ Passionate about transforming data into intelligent solutions through Machine Le
 - 🤖 Machine Learning & AI Enthusiast
 - 🌱 Currently learning
 
-## 📊 Data Science
 
-<p>
-
-<img src="https://skillicons.dev/icons?i=tensorflow"/>
-
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy"/>
-
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Seaborn-009688?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly"/>
-<img src="https://skillicons.dev/icons?i=sklearn"/>
-
-<img src="https://img.shields.io/badge/XGBoost-FF6600?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/LightGBM-4CAF50?style=for-the-badge"/>
-
-</p>
 - 💡 Interested in
 
   - Data Science
@@ -66,6 +45,29 @@ Passionate about transforming data into intelligent solutions through Machine Le
   - Kaggle
 
 ---
+
+## 📊 Data Science
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=tensorflow"/>
+
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy"/>
+
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Seaborn-009688?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly"/>
+<img src="https://skillicons.dev/icons?i=sklearn"/>
+
+<img src="https://img.shields.io/badge/XGBoost-FF6600?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/LightGBM-4CAF50?style=for-the-badge"/>
+
+</p>
 
 # 🌐 Connect With Me
 
