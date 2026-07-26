@@ -1,39 +1,261 @@
+<h1 align="center">Hi 👋, I'm Aleesha Nadeem</h1>
 
-<h1 align="center">Hi 👋, I'm Aleesha</h1>
-<h3 align="center"> Data Science  | AI & Machine Learning Enthusiast | BS Computer Science Student</h3>
+<h3 align="center">
+Data Scientist • AI & Machine Learning Enthusiast • BS Computer Science Student
+</h3>
 
-- 🌱 I’m currently learning **Deep Learning, TensorFlow, PyTorch, LLMs, RAG, AI Agents, and MLOps**
+<p align="center">
+Passionate about transforming data into intelligent solutions through Machine Learning, Deep Learning, and Generative AI.
+</p>
 
-- 👯 I’m looking to collaborate on **Machine Learning & Open Source AI Projects**
+---
 
-- 💬 Ask me about **Python, Data Science, Machine Learning, EDA, SQL, Kaggle**
+## 🚀 About Me
 
+- 🎓 BS Computer Science Student
+- 📊 Aspiring Data Scientist
+- 🤖 Machine Learning & AI Enthusiast
+- 🌱 Currently learning
 
+  - Deep Learning
+  - TensorFlow
+  - PyTorch
+  - Large Language Models (LLMs)
+  - Retrieval-Augmented Generation (RAG)
+  - AI Agents
+  - MLOps
 
-<h3 align="left">Connect with me:</h3>
+- 💡 Interested in
+
+  - Data Science
+  - Machine Learning
+  - Deep Learning
+  - Computer Vision
+  - NLP
+  - Generative AI
+
+- 🤝 Looking to collaborate on
+
+  - Open Source AI Projects
+  - Machine Learning Projects
+  - Data Science Research
+
+- 💬 Ask me about
+
+  - Python
+  - Machine Learning
+  - Data Analysis
+  - SQL
+  - Pandas
+  - NumPy
+  - EDA
+  - Kaggle
+
+---
+
+# 🌐 Connect With Me
+
 <p align="left">
-<a href="https://twitter.com/aleesha748" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aleesha748" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/aleeshanadeem" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aleeshanadeem" height="30" width="40" /></a>
-<a href="https://kaggle.com/nalisha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="nalisha" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/alishascientist2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="alishascientist2" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/dccfzpw2a5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="dccfzpw2a5" height="30" width="40" /></a>
-<a href="https://discord.gg/aleesha_748" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="aleesha_748" height="30" width="40" /></a>
 
+<a href="https://linkedin.com/in/aleeshanadeem">
+<img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
+</a>
 
+<a href="https://github.com/aleeshanadeem">
+<img src="https://skillicons.dev/icons?i=github" height="45"/>
+</a>
 
-# Skills:
+<a href="https://kaggle.com/nalisha">
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/kaggle.svg" width="42"/>
+</a>
 
-![Python](https://img.shields.io/badge/Python-3.x-blue?style=for-the-badge&logo=python)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-ML-orange?style=for-the-badge&logo=scikitlearn)
-![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-purple?style=for-the-badge&logo=pandas)
-![NumPy](https://img.shields.io/badge/NumPy-Numerical%20Computing-blue?style=for-the-badge&logo=numpy)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-Visualization-green?style=for-the-badge)
-![Seaborn](https://img.shields.io/badge/Seaborn-Statistical%20Plots-teal?style=for-the-badge)
+<a href="https://twitter.com/aleesha748">
+<img src="https://skillicons.dev/icons?i=twitter" height="45"/>
+</a>
+
+<a href="https://www.hackerrank.com/alishascientist2">
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/hackerrank.svg" width="42"/>
+</a>
+
+<a href="https://leetcode.com/dccfzpw2a5">
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/leetcode.svg" width="42"/>
+</a>
 
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aleeshanadeem&" alt="aleeshanadeem" /></p>
+# 💻 Tech Stack
 
+### Programming
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=python"/>
+
+<img src="https://skillicons.dev/icons?i=cpp"/>
+
+<img src="https://skillicons.dev/icons?i=mysql"/>
+
+</p>
+
+---
+
+### Data Science
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=tensorflow"/>
+
+<img src="https://skillicons.dev/icons?i=pytorch"/>
+
+<img src="https://skillicons.dev/icons?i=sklearn"/>
+
+<img src="https://skillicons.dev/icons?i=opencv"/>
+
+</p>
+
+---
+
+### Python Libraries
+
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+- Plotly
+- Scikit-learn
+- SciPy
+- XGBoost
+- LightGBM
+
+---
+
+### Tools
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=vscode"/>
+
+<img src="https://skillicons.dev/icons?i=git"/>
+
+<img src="https://skillicons.dev/icons?i=github"/>
+
+<img src="https://skillicons.dev/icons?i=anaconda"/>
+
+<img src="https://skillicons.dev/icons?i=docker"/>
+
+</p>
+
+---
+
+# 📚 Currently Learning
+
+✅ Deep Learning
+
+✅ TensorFlow
+
+✅ PyTorch
+
+✅ Generative AI
+
+✅ Large Language Models
+
+✅ LangChain
+
+✅ RAG
+
+✅ AI Agents
+
+✅ MLOps
+
+---
+
+# 📂 Featured Projects
+
+⭐ AI Developer Performance Analysis
+
+⭐ Student Performance Prediction
+
+⭐ Employee Salary Prediction
+
+⭐ House Price Prediction
+
+⭐ California Housing Price Prediction
+
+⭐ Bank Management System
+
+---
+
+# 📈 GitHub Stats
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=aleeshanadeem&show_icons=true&theme=tokyonight"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aleeshanadeem&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=aleeshanadeem&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=aleeshanadeem&theme=onedark&margin-w=15"/>
+
+</p>
+
+---
+
+# 📊 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=aleeshanadeem&theme=tokyo-night"/>
+
+</p>
+
+---
+
+# 🎯 Goals for 2026
+
+- Build production-ready ML projects
+- Master Deep Learning
+- Learn MLOps
+- Build AI Agents
+- Contribute to Open Source
+- Publish quality Kaggle notebooks
+- Improve Competitive Programming
+- Become an AI Engineer
+
+---
+
+# ✨ Quote
+
+> "Learning never exhausts the mind. Every project is one step closer to building intelligent systems."
+
+---
+
+<p align="center">
+
+![](https://komarev.com/ghpvc/?username=aleeshanadeem&label=Profile+Views&color=0e75b6&style=flat)
+
+</p>
+
+---
+
+<p align="center">
+⭐ Thanks for visiting my profile! ⭐
+</p>
