@@ -93,19 +93,41 @@ Passionate about transforming data into intelligent solutions through Machine Le
 
 
 
-## 🛠 Tools
+## 🛠️ Tools & Platforms
 
-<p>
+<p align="left">
 
-<img src="https://skillicons.dev/icons?i=git"/>
+<!-- Development -->
+<img src="https://skillicons.dev/icons?i=git" />
+<img src="https://skillicons.dev/icons?i=github" />
+<img src="https://skillicons.dev/icons?i=vscode" />
+<img src="https://skillicons.dev/icons?i=pycharm" />
+<img src="https://skillicons.dev/icons?i=jupyter" />
+<img src="https://skillicons.dev/icons?i=anaconda" />
 
-<img src="https://skillicons.dev/icons?i=github"/>
+<!-- Cloud & Containers -->
+<img src="https://skillicons.dev/icons?i=docker" />
+<img src="https://skillicons.dev/icons?i=linux" />
+<img src="https://skillicons.dev/icons?i=bash" />
 
-<img src="https://skillicons.dev/icons?i=vscode"/>
+<!-- Databases -->
+<img src="https://skillicons.dev/icons?i=mysql" />
+<img src="https://skillicons.dev/icons?i=sqlite" />
 
-<img src="https://skillicons.dev/icons?i=docker"/>
+<!-- Google Colab -->
+<img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white"/>
 
-<img src="https://skillicons.dev/icons?i=linux"/>
+<!-- Kaggle -->
+<img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
+
+<!-- Streamlit -->
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
+
+<!-- Power BI -->
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+
+<!-- Excel -->
+<img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
 
 </p>
 
