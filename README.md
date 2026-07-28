@@ -15,17 +15,8 @@ Passionate about transforming data into intelligent solutions through Machine Le
 - 🎓 BS Computer Science Student
 - 📊 Aspiring Data Scientist
 - 🤖 Machine Learning & AI Enthusiast
-- 🌱 Currently learning
 
 
-- 💡 Interested in
-
-  - Data Science
-  - Machine Learning
-  - Deep Learning
-  - Computer Vision
-  - NLP
-  - Generative AI
 
 - 🤝 Looking to collaborate on
 
