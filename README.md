@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aleesha Nadeem</h1>
 
 <h3 align="center">
-Data Scientist • AI & Machine Learning Enthusiast • BS Computer Science Student
+Data Scientist • AI & Machine Learning Enthusiast • Kaggle Grandmaster • BSCS Student
 </h3>
 
 <p align="center">
